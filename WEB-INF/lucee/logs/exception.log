@@ -1,0 +1,1044 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","http-bio-8888-exec-116","11/23/2015","05:43:34","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-133","11/23/2015","06:18:19","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-116","11/23/2015","08:56:23","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-133","11/23/2015","09:57:57","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-126","11/23/2015","11:55:22","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-116","11/23/2015","12:07:09","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-116","11/23/2015","12:37:19","",";Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found;Page /home/quirkycr/public_html/index.cfm [/home/quirkycr/public_html/findtrackbuy/home/quirkycr/public_html/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:915):915
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:914):914
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:56):56
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:36):36
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-73","03/02/2016","22:01:36","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor97.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-73","03/02/2016","22:02:31","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor97.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-93","03/03/2016","03:05:33","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor108.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-22","03/03/2016","04:13:14","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor108.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-10","03/03/2016","04:18:08","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor108.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-bio-8888-exec-80","03/03/2016","04:18:36","",";lucee.runtime.exp.DatabaseException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'clob  NOT NULL)' at line 1;
+	at sun.reflect.GeneratedConstructorAccessor108.newInstance(Unknown Source):-1
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source):-1
+	at java.lang.reflect.Constructor.newInstance(Unknown Source):-1
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411):411
+	at com.mysql.jdbc.Util.getInstance(Util.java:386):386
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052):1052
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096):4096
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028):4028
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490):2490
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651):2651
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2677):2677
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2627):2627
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:841):841
+	at com.mysql.jdbc.StatementImpl.execute(StatementImpl.java:681):681
+	at lucee.runtime.db.driver.state.StateUtil.execute(StateUtil.java:37):37
+	at lucee.runtime.db.driver.state.StateStatement.execute(StateStatement.java:43):43
+	at lucee.runtime.type.util.QueryUtil.execute(QueryUtil.java:232):232
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:243):243
+	at lucee.runtime.type.QueryImpl.<init>(QueryImpl.java:204):204
+	at lucee.runtime.type.scope.storage.db.Ansi92.select(Ansi92.java:96):96
+	at lucee.runtime.type.scope.storage.StorageScopeDatasource._loadData(StorageScopeDatasource.java:112):112
+	at lucee.runtime.type.scope.client.ClientDatasource.getInstance(ClientDatasource.java:55):55
+	at lucee.runtime.type.scope.ScopeContext.getClientScope(ScopeContext.java:233):233
+	at lucee.runtime.type.scope.ScopeContext.getClientScopeEL(ScopeContext.java:261):261
+	at lucee.runtime.PageContextImpl.clientScopeEL(PageContextImpl.java:1371):1371
+	at lucee.runtime.type.scope.UndefinedImpl.reinitialize(UndefinedImpl.java:582):582
+	at lucee.runtime.PageContextImpl.setApplicationContext(PageContextImpl.java:2813):2813
+	at lucee.runtime.listener.ModernAppListener.initApplicationContext(ModernAppListener.java:425):425
+	at lucee.runtime.listener.ModernAppListener._onRequest(ModernAppListener.java:113):113
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:35):35
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2262):2262
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2225):2225
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:456):456
+	at lucee.loader.servlet.CFMLServlet.service(Unknown Source):-1
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728):728
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305):305
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210):210
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222):222
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123):123
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472):472
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171):171
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99):99
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118):118
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:680):680
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407):407
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004):1004
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589):589
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310):310
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source):-1
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source):-1
+	at java.lang.Thread.run(Unknown Source):-1
+"
+"ERROR","http-nio-8888-exec-9","01/26/2017","12:50:16","",";Page /cgi-bin/index.cfm [/home/quirkycr/public_html/findtrackbuy/cgi-bin/index.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /cgi-bin/index.cfm [/home/quirkycr/public_html/findtrackbuy/cgi-bin/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:887)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:913)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:833)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:828)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:62)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:44)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2293)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2284)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2252)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:891)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-154","01/28/2017","13:53:50","",";Page /cgi-bin/index.cfm [/home/quirkycr/public_html/findtrackbuy/cgi-bin/index.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /cgi-bin/index.cfm [/home/quirkycr/public_html/findtrackbuy/cgi-bin/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:887)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:913)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:833)
+	at lucee.runtime.PageContextImpl.doInclude(PageContextImpl.java:828)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:62)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:44)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2293)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2284)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2252)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:891)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-401","11/14/2018","18:26:34","",";Page /scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/scripts/cfformhistory.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/scripts/cfformhistory.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-352","11/14/2018","18:26:34","",";Page /cf_scripts/scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/cf_scripts/scripts/cfformhistory.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /cf_scripts/scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/cf_scripts/scripts/cfformhistory.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-406","11/14/2018","18:26:34","",";Page /CFIDE/scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/scripts/cfformhistory.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /CFIDE/scripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/scripts/cfformhistory.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-415","11/14/2018","18:26:34","",";Page /wwscripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/wwscripts/cfformhistory.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /wwscripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/wwscripts/cfformhistory.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-418","11/14/2018","18:26:34","",";Page /FormScripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/FormScripts/cfformhistory.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /FormScripts/cfformhistory.cfm [/home/quirkycr/public_html/findtrackbuy/FormScripts/cfformhistory.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-413","11/14/2018","18:26:35","",";Page /CFIDE/Administrator/index.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/Administrator/index.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /CFIDE/Administrator/index.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/Administrator/index.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-411","11/14/2018","18:26:35","",";Page /scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-404","11/14/2018","18:26:35","",";Page /cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-412","11/14/2018","18:26:35","",";Page /CFIDE/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /CFIDE/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-396","11/14/2018","18:26:36","",";Page /CFIDE/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /CFIDE/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/CFIDE/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-401","11/14/2018","18:26:36","",";Page /wwscripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/wwscripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /wwscripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/wwscripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"
+"ERROR","http-nio-8888-exec-352","11/14/2018","18:26:36","",";Page /FormScripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/FormScripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found;lucee.runtime.exp.MissingIncludeException: Page /FormScripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm [/home/quirkycr/public_html/findtrackbuy/FormScripts/ajax/ckeditor/plugins/filemanager/filemanager.cfm] not found
+	at lucee.runtime.PageSourceImpl.loadPage(PageSourceImpl.java:964)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:927)
+	at lucee.runtime.PageContextImpl._doInclude(PageContextImpl.java:823)
+	at lucee.runtime.listener.ClassicAppListener._onRequest(ClassicAppListener.java:64)
+	at lucee.runtime.listener.MixedAppListener.onRequest(MixedAppListener.java:45)
+	at lucee.runtime.PageContextImpl.execute(PageContextImpl.java:2464)
+	at lucee.runtime.PageContextImpl._execute(PageContextImpl.java:2454)
+	at lucee.runtime.PageContextImpl.executeCFML(PageContextImpl.java:2427)
+	at lucee.runtime.engine.Request.exe(Request.java:44)
+	at lucee.runtime.engine.CFMLEngineImpl._service(CFMLEngineImpl.java:1091)
+	at lucee.runtime.engine.CFMLEngineImpl.serviceCFML(CFMLEngineImpl.java:1039)
+	at lucee.loader.engine.CFMLEngineWrapper.serviceCFML(CFMLEngineWrapper.java:102)
+	at lucee.loader.servlet.CFMLServlet.service(CFMLServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:677)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+"

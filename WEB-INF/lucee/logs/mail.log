@@ -1,0 +1,20 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","Thread-12268","10/08/2015","11:48:30","","mail;timeout occurred after 30 seconds while sending mail message;javax.mail.MessagingException: timeout occurred after 30 seconds while sending mail message
+	at lucee.runtime.net.smtp.SMTPClient._send(SMTPClient.java:755)
+	at lucee.runtime.spooler.mail.MailSpoolerTask.execute(MailSpoolerTask.java:110)
+	at lucee.runtime.spooler.SpoolerTaskSupport._execute(SpoolerTaskSupport.java:97)
+	at lucee.runtime.spooler.SpoolerEngineImpl.execute(SpoolerEngineImpl.java:571)
+	at lucee.runtime.spooler.SpoolerEngineImpl$TaskThread.run(SpoolerEngineImpl.java:509)
+"
+"ERROR","Thread-12279","10/08/2015","11:53:30","","mail;Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Broken pipe;Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Broken pipe
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1365):1365
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1353):1353
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1316):1316
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:906):906
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:535):535
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61):61
+"
